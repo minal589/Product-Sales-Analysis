@@ -1,4 +1,3 @@
 # Product-Sales-Analysis
 
-Leverage Power BI to analyze product sales data efficiently. Import and clean sales data, establishing relationships among relevant tables. Utilize diverse visualization options including bar charts, line graphs, and slicers to track sales performance by product, region, or time period. Identify top-selling products, analyze revenue trends, and compare performance across different sales channels. Incorporate measures such as profit margins and customer acquisition costs for comprehensive insights. Share dynamic reports with stakeholders for informed decision-making and strategic planning. Continuously refine analyses to adapt to changing market dynamics and maximize sales opportunities. Power BI empowers data-driven sales strategies, enhancing productivity and profitability.
 link - https://www.novypro.com/project/product-sales-analysis-5
